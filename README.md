@@ -72,7 +72,7 @@ azcopy copy "./webapp/*" "https://<yourStorageAccountName>.blob.core.windows.net
 Visit:
 
 ```
-https://<yourStorageAccountName>.z13.web.core.windows.net
+#https://<yourStorageAccountName>.z13.web.core.windows.net
 ```
 
 ## 📸 Logo
