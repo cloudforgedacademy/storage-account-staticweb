@@ -1,6 +1,6 @@
 
 ```markdown
-# ![Cloudforged with Seyi]()![alt text](image.png)
+ ![Cloudforged with Seyi]()![alt text](image.png)
 
 # Static Web App Hosting on Azure Storage Account
 
