@@ -77,7 +77,7 @@ Visit:
 ## 📬 Contact
 
 **Oluseyi Sunny-Okundia**
-Cloud Engineer | YouTube: [Cloudforged with Seyi](https://www.youtube.com@cloudforgedwithseyi)
+Cloud Engineer | YouTube: [Cloudforged with Seyi](https://www.youtube.com/@cloudforgedwithseyi)
 📧 [oluseyi@cloudforgedacademy.ca](mailto:oluseyi@cloudforgedacademy.ca)
 
 ---
