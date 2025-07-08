@@ -1,7 +1,7 @@
 
 ![PNG LOGO](https://github.com/user-attachments/assets/e0fba218-6059-4c69-9d46-c9354e392b93)
 
-# Static Web App Hosting on Azure Storage Account
+#               Static Web App Hosting on Azure Storage Account
 
 This project provisions an **Azure Storage Account** configured for **static website hosting**. It serves as the backend infrastructure for deploying and hosting a static web application, such as HTML/CSS/JS files, directly from Azure.
 
@@ -73,14 +73,6 @@ Visit:
 ```
 #https://<yourStorageAccountName>.z13.web.core.windows.net
 ```
-
-## 📸 Logo
-
-![Cloudforged Logo](logo.png)
-
-*Replace `logo.png` with your actual logo file. Make sure it's placed in the same directory as the `README.md`.*
-
----
 
 ## 📬 Contact
 
