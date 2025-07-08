@@ -1,6 +1,5 @@
 
-```markdown
- ![cloudforged with Seyi](image.png)
+![PNG LOGO](https://github.com/user-attachments/assets/e0fba218-6059-4c69-9d46-c9354e392b93)
 
 # Static Web App Hosting on Azure Storage Account
 
