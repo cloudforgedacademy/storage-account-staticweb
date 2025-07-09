@@ -41,7 +41,7 @@ resource "azurerm_storage_account_static_website" "sw" {
 resource "azurerm_storage_account_network_rules" "sw" {
   storage_account_id = azurerm_storage_account.stw.id
   default_action     = "Deny"
-  ip_rules           = ["216.16.250.162"]
+  ip_rules           = ["192.16.250.162"]
 #   virtual_network_subnet_ids = [
 #     data.azurerm_subnet.exisitng_subnet.id
 #   ]

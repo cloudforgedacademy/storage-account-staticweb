@@ -1,4 +1,4 @@
-rgname     = "CC-DEV-DBTDOC-RG"
+rgname     = "cloudforged-RG"
 rglocation = "canadacentral"
 #StorageAccount
 storageacc_name                  = ""
@@ -7,5 +7,5 @@ storageacc_blob_private-endpoint = ""
 #Tagging
 tags = {
   Environment         = "DEV"
-  Owner               = "EDA Team"
+  Owner               = "ProductTeam"
 }
