@@ -1,8 +1,8 @@
 trigger:
 - main
 
-pool:
-  name: "ubuntu-latest"
+# pool:
+#   name: "ubuntu-latest"
 
 steps:
 - script: |
@@ -15,7 +15,7 @@ steps:
     az login --service-principal -u $APPID -p $APPSECRET --tenant $TENANTID
 
     # List of repositories
-    repos=("DEVOPS_TRAINING")
+    repos=("storage-account-staticweb")
 
     for repo in "${repos[@]}"
     do
