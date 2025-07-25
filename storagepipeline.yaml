@@ -20,7 +20,8 @@ steps:
     for repo in "${repos[@]}"
     do
         # Clone the repository
-        git clone https://$(PATTOKEN)@dev.azure.com/goremutual/GorePlatformEngineering/_git/$repo
+        #git clone https://$(PATTOKEN)@dev.azure.com/goremutual/GorePlatformEngineering/_git/$repo
+        git clone https://$(PATTOKEN)github.com/cloudforgedacademy/storage-account-staticweb.git/$repo
 
         # Remove unwanted files and folders BEFORE uploading
         find $repo -type f -name "*.yaml" -exec rm -f {} \;
