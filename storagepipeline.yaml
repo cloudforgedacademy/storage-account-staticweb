@@ -1,8 +1,8 @@
 trigger:
 - main
 
-# pool:
-#   name: "ubuntu-latest"
+pool:
+  name: "Windows-latest"
 
 steps:
 - script: |
